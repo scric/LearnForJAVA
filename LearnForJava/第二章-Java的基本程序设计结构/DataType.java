@@ -63,20 +63,32 @@ public class DataType {
         for (char ch=65;;ch++) {  // 这是一个循环语句，后面会讲。
             System.out.print(ch); // ABCDEFGHIJKLMNOPQRSTUVWXYZ,如果想要输出小写字母，该如何改呢？
             if (ch == 'Z') {  //判断语句，如果ch等于Z，就退出循环。
+                System.out.println(); // 换行
                 break;
             }
-
+          }
         //是不是不知道小写字母的编号？如果想要弄清char类型，就必须了解Unicode编码表
         //Unicode编码单元可以表示为十六进制值，其范围从\u0000到\Uffff
         //强烈建议不要在程序中使用char类型，了解即可。
 
 
-         // boolean 类型
+        // boolean 类型
 
-         //boolean类型有两个值，false和true
+        //boolean类型有两个值，false和true
+        //详细内容可以看Operator的
 
-          }
 
+        //那么数值之间可不可以转换呢？
+        int n = 123456789;
+        System.out.println(n); //123456789
+        float f = n;
+        System.out.println(f); //1.23456792E8  优先级为 double>float>long>int
+
+        //在必要的时候，int类型的值会自动地转换为double类型。
+        //有时候也需要将double转换成int，
+        double x = 9.997;
+        int nx = (int) x;
+        System.out.println(nx); //9
     }
 
 
