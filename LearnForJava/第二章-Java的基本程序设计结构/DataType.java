@@ -50,10 +50,29 @@ public class DataType {
 
         // char 类型
 
-        
+        char l = 'A'; // char 类型用于表示单个字符。通常用来表示字符常量
+        System.out.println(l); //A ,'A'是编码为65所对应的字符常量
+
+        char m = 65;   // 将m定义为char类型，并赋值为65
+        System.out.println(m); // A ， 那么，如何输出从A到Z的字符常量呢？
+
+        System.out.println("-------");
+        for (char ch=65;;ch++) {  // 这是一个循环语句，后面会讲。
+            System.out.print(ch); // ABCDEFGHIJKLMNOPQRSTUVWXYZ,如果想要输出小写字母，该如何改呢？
+            if (ch == 'Z') {  //判断语句，如果ch等于Z，就退出循环。
+                break;
+            }
+
+        //是不是不知道小写字母的编号？如果想要弄清char类型，就必须了解Unicode编码表
+        //Unicode编码单元可以表示为十六进制值，其范围从\u0000到\Uffff
+        //强烈建议不要在程序中使用char类型，了解即可。
 
 
+         // boolean 类型
 
+         //boolean类型有两个值，false和true
+
+          }
 
     }
 

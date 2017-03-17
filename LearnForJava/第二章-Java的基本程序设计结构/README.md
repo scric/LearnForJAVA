@@ -62,3 +62,13 @@ System.out.println("We will use 'Hello world!'");这里使用了System.out对象
 
 详细内容请看 DataType ，文件名开头注意大写。
 
+### 变量
+
+变量的详细内容请看 Varible。
+
+const 是java保留的关键字，但目前并没有使用。在Java 中必须使用后final定义常量。
+
+### 运算符
+
+
+
