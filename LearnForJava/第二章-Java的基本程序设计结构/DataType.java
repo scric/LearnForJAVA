@@ -1,6 +1,9 @@
 /**
  * Created by scric on 2017/3/16.
+ * @version 1.0
+ * @author scric
  */
+
 public class DataType {
     public static void main(String[] args) {
 
