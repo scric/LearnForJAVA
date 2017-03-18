@@ -6,7 +6,7 @@
 
 public class Varible {
     public static void main(String[] args) {
-        //变量的讲解
+        //变量的讲解6
 
         // 在Java中，每一个变量属于一种类型(type).
 

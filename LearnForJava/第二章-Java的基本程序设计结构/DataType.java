@@ -83,12 +83,30 @@ public class DataType {
         System.out.println(n); //123456789
         float f = n;
         System.out.println(f); //1.23456792E8  优先级为 double>float>long>int
-
+        //强制类型转换（cast）
         //在必要的时候，int类型的值会自动地转换为double类型。
         //有时候也需要将double转换成int，
         double x = 9.997;
-        int nx = (int) x;
-        System.out.println(nx); //9
+        int nx = (int) x; //强制类型转换的语法格式是在圆括号中给出想要转换的目标类型，后面紧跟待转换的变量名。
+        System.out.println(nx); //9 ，通过截断小数部分将浮点值转换为整型。
+
+        //如果想对浮点数进行舍入运算，以便得到最接近的整数。
+        double z = 9.97;
+        int nz = (int) Math.round(z); //通过round进行舍入。
+        System.out.println(nz); //10
+        //测试是不是按四舍五入进行计算
+        double y = 9.44;
+        int ny = (int) Math.round(y);
+        System.out.println(ny); //9
+
+
+        //括号与运算符级别
+        int e = nz + nx * ny;  // 结果是多少呢？
+        int t = (nz + nx) * ny; //这个的结果呢？
+        System.out.println(e); //91
+        System.out.println(t); //171
+
+
     }
 
 

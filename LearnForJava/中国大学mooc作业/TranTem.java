@@ -2,7 +2,10 @@
  * Created by scric on 2017/3/17.
  * @version 1.0
  * @author scric
+ * 功能: 将华氏温度转换为摄氏温度
  */
+
+
 
 import java.util.*;
 

@@ -12,6 +12,9 @@ public class Operator {
         x += 4;   // 这个等价于 x = x + 4;
         System.out.println(x); //14
 
+//        System.out.println("x/0的结果是:"+ x/0); //报错，产生一种异常
+//        System.out.println("4.0/0的结果是：" + 4.0 / 0); //4.0/0的结果是：Infinity
+
         x -= 4;  // 等价于 x = x - 4;
         System.out.println(x); //12
 
