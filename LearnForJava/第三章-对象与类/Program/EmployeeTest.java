@@ -47,6 +47,8 @@ class Employee {
       hireDay = calendar.getTime();
    }
 
+   //封装的优点
+
    public String getName() {
       return name;
    }
@@ -61,11 +63,12 @@ class Employee {
 
 
    //raiseSalary方法有两个参数.第一个参数是隐式参数(implicit)参数,是出现在方法名前的Employee类对象
-   //第二个参数位于方法名后面括号中的数值,这是一个显式对象()
+   //第二个参数位于方法名后面括号中的数值,这是一个显式对象(explicit)
+   // 在每一个方法中,关键词this表示隐式参数.
 
 
    public void raiseSalary(double byPercent) {
       double raise = salary * byPercent / 100;
-      salary += raise;
+      salary += raise; // this.salary += raise; //也是可以的,这样可以将实例域与局部变量明显地区分开来.
    }
 }
