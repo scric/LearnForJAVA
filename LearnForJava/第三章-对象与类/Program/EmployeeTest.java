@@ -31,8 +31,9 @@ public class EmployeeTest
 
 class Employee {
    //下面三个实例用来存放将要操作的数据 .private确保只有Employee类自身的方法能够访问这些实例域,而其他类的方法不能够读写这些域.
-   private String name; //name域是String类对象
-   private double salary;//基本类型
+   private String name; //name域是String类对象  .是一个只读域  ,也可以将实例域定义为final .private final String name;
+   //final 修饰符大都应用于基本(primitive)类型域或不可变(immitable)类的域(类中的方法不会改变其对象)
+   private double salary;//基本类型 ,可以用raiseSalary方法修改.
    private Date hireDay;//hireDay是Date类对象
 
 
@@ -51,7 +52,7 @@ class Employee {
 
    public String getName() {
       return name;
-   }
+   } //只返回实例域值,称为域访问器
 
    public double getSalary() {
       return salary;
@@ -59,7 +60,11 @@ class Employee {
 
    public Date getHireDay() {
       return hireDay;
-   }
+   } // 注意不要编写返回引用可变对象的访问器方法 // Date是可变对象.
+
+
+
+
 
 
    //raiseSalary方法有两个参数.第一个参数是隐式参数(implicit)参数,是出现在方法名前的Employee类对象

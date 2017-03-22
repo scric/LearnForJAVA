@@ -35,10 +35,24 @@ public class Class {
         //用户自定义类.
         //详细可看 EmployeeTest.java
 
-
-
-
-
-
+      System.out.println(Math.PI); //3.1415926
+//        Math math = new Math();
+//        System.out.println(math.PI); //Error:(39, 21) java: 无法从静态上下文中引用非静态 变量 this
     }
+    //静态常量
+    public  class Math {
+       public static final double PI =3.1415926;
+      //  public final double PI = 3.1415926; //Error:(38, 32) java: 无法从静态上下文中引用非静态 变量 PI
+        //如果static被忽略,PI就变成了Math类的一个实例域.需要通过Math类的对象访问PI
+        //但是为什么我并不能够创建Math类对象呢?提示class.this 不能通过一个static类
+        //这就引出了静态方法.因为当前的类并不是静态的,所以其对象PI并不是静态的.我们应该怎么改呢?
+        //只需在类的public后加入 static即可.
+    }
+
+    //静态方法
+    //静态方法就是一种不能向对象实施操作的方法,比如Math类的pow方法..
+
+    //也可以静态方法是没有this参数的方法(在一个非静态的方法中,this参数表示这个方法的隐式参数.)
+
+
 }
