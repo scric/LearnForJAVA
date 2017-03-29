@@ -2,14 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20ac7860-70dc-4ade-a01c-ca5f8d155270" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LearnForJava/LearnForJava.iml" afterPath="$PROJECT_DIR$/LearnForJava/LearnForJava.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LearnForJava/src/第四章-继承/对象包装器与自动装箱/README.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LearnForJava/LearnForJava.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LearnForJava/中国大学Mooc作业.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LearnForJava/对象与类.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LearnForJava/第四章-继承/Employee类和Manager类测试/Employee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LearnForJava/第四章-继承/Employee类和Manager类测试/EmployeeTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LearnForJava/第四章-继承/Employee类和Manager类测试/Manager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LearnForJava/第四章-继承/Employee类和Manager类测试/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LearnForJava/第四章-继承/Employee类和Manager类测试/PersonTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LearnForJava/第四章-继承/Employee类和Manager类测试/Student.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LearnForJava/第四章-继承/Employee类和Manager类测试/newEmployee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LearnForJava/第四章-继承/对象包装器与自动装箱/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LearnForJava/Employee类和Manager类测试/newEmployee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LearnForJava/Object_所有类的超类/Object.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LearnForJava/Program/CalendarTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LearnForJava/Program/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LearnForJava/Program/Employee1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LearnForJava/Program/Employee2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LearnForJava/Program/EmployeeTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LearnForJava/Program/ParamTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LearnForJava/Program/StaticTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LearnForJava/Program/paper3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LearnForJava/Question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LearnForJava/泛型数组列表/ArrayListTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LearnForJava/泛型数组列表/arrayList.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LearnForJava/Employee类和Manager类测试/Employee.class" afterPath="$PROJECT_DIR$/out/production/LearnForJava/Employee类和Manager类测试/Employee.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LearnForJava/Employee类和Manager类测试/PersonTest.class" afterPath="$PROJECT_DIR$/out/production/LearnForJava/Employee类和Manager类测试/PersonTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LearnForJava/README.md" afterPath="$PROJECT_DIR$/LearnForJava/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LearnForJava/第三章-对象与类/Class.java" afterPath="$PROJECT_DIR$/LearnForJava/第三章-对象与类/Class.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LearnForJava/第三章-对象与类/Question.md" afterPath="$PROJECT_DIR$/LearnForJava/第三章-对象与类/Question.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LearnForJava/第三章-对象与类/README.md" afterPath="$PROJECT_DIR$/LearnForJava/第三章-对象与类/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LearnForJava/Question.md" afterPath="$PROJECT_DIR$/out/production/LearnForJava/Question.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LearnForJava/README.md" afterPath="$PROJECT_DIR$/out/production/LearnForJava/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LearnForJava/泛型数组列表/README.md" afterPath="$PROJECT_DIR$/out/production/LearnForJava/泛型数组列表/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/中国大学mooc作业/China.java" afterPath="$PROJECT_DIR$/LearnForJava/src/中国大学mooc作业/China.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/中国大学mooc作业/TimeTran.java" afterPath="$PROJECT_DIR$/LearnForJava/src/中国大学mooc作业/TimeTran.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/中国大学mooc作业/TranTem.java" afterPath="$PROJECT_DIR$/LearnForJava/src/中国大学mooc作业/TranTem.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第一章-Java程序设计环境/README.md" afterPath="$PROJECT_DIR$/LearnForJava/src/第一章-Java程序设计环境/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第三章-对象与类/Class.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第三章-对象与类/Class.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第三章-对象与类/GregorianCalendar1.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第三章-对象与类/GregorianCalendar1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第三章-对象与类/GregorianCalendar2.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第三章-对象与类/GregorianCalendar2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第三章-对象与类/Program/CalendarTest.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第三章-对象与类/Program/CalendarTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第三章-对象与类/Program/EmployeeTest.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第三章-对象与类/Program/EmployeeTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第三章-对象与类/Program/ParamTest.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第三章-对象与类/Program/ParamTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第三章-对象与类/Program/StaticTest.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第三章-对象与类/Program/StaticTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第三章-对象与类/Question.md" afterPath="$PROJECT_DIR$/LearnForJava/src/第三章-对象与类/Question.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第三章-对象与类/README.md" afterPath="$PROJECT_DIR$/LearnForJava/src/第三章-对象与类/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Array.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第二章-Java的基本程序设计结构/Array.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/CharString.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第二章-Java的基本程序设计结构/CharString.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/ControlFlow.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第二章-Java的基本程序设计结构/ControlFlow.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/DataType.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第二章-Java的基本程序设计结构/DataType.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/HelloWorld.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第二章-Java的基本程序设计结构/HelloWorld.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/InAndOut_Put.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第二章-Java的基本程序设计结构/InAndOut_Put.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Operator.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第二章-Java的基本程序设计结构/Operator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Program/CompoundInterest.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第二章-Java的基本程序设计结构/Program/CompoundInterest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Program/LotteryArray.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第二章-Java的基本程序设计结构/Program/LotteryArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Program/LotteryDrawing.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第二章-Java的基本程序设计结构/Program/LotteryDrawing.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Program/LotteryOdds.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第二章-Java的基本程序设计结构/Program/LotteryOdds.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Program/Retirement.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第二章-Java的基本程序设计结构/Program/Retirement.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Program/paper3.txt" afterPath="$PROJECT_DIR$/LearnForJava/src/第二章-Java的基本程序设计结构/Program/paper3.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/README.md" afterPath="$PROJECT_DIR$/LearnForJava/src/第二章-Java的基本程序设计结构/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Varible.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第二章-Java的基本程序设计结构/Varible.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第四章-继承/AbstractClass.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第四章-继承/AbstractClass.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第四章-继承/ClassAndSuper.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第四章-继承/ClassAndSuper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第四章-继承/Object_所有类的超类/Object.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第四章-继承/Object_所有类的超类/Object.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第四章-继承/Object_所有类的超类/README.md" afterPath="$PROJECT_DIR$/LearnForJava/src/第四章-继承/Object_所有类的超类/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第四章-继承/Polymorphic.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第四章-继承/Polymorphic.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第四章-继承/Questions.md" afterPath="$PROJECT_DIR$/LearnForJava/src/第四章-继承/Questions.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第四章-继承/README.md" afterPath="$PROJECT_DIR$/LearnForJava/src/第四章-继承/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第四章-继承/泛型数组列表/ArrayListTest.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第四章-继承/泛型数组列表/ArrayListTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第四章-继承/泛型数组列表/Questions" afterPath="$PROJECT_DIR$/LearnForJava/src/第四章-继承/泛型数组列表/Questions" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第四章-继承/泛型数组列表/README.md" afterPath="$PROJECT_DIR$/LearnForJava/src/第四章-继承/泛型数组列表/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LearnForJava/第四章-继承/泛型数组列表/arrayList.java" afterPath="$PROJECT_DIR$/LearnForJava/src/第四章-继承/泛型数组列表/arrayList.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,36 +96,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/Employee类和Manager类测试/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="arrayList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/泛型数组列表/arrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="65" column="32" lean-forward="false" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="299">
+                <caret line="19" column="62" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="62" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/泛型数组列表/README.md">
+        <entry file="file://$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/接口/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="409">
-                <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+              <first_editor relative-caret-position="828">
+                <caret line="36" column="62" lean-forward="false" selection-start-line="36" selection-start-column="62" selection-end-line="36" selection-end-column="62" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Interface_Features.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/接口/Interface_Features.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LearnForJava/src/第四章-继承/AbstractClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="接口与抽象类.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/接口/接口与抽象类.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="368">
+                <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -66,11 +156,11 @@
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/对象包装器与自动装箱/README.md">
+        <entry file="file://$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/对象克隆/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="184">
-                <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+              <first_editor relative-caret-position="295">
+                <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -78,64 +168,49 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClassAndSuper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/ClassAndSuper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="80" column="36" lean-forward="false" selection-start-line="80" selection-start-column="36" selection-end-line="80" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/AbstractClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Polymorphic.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/Polymorphic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="32" column="41" lean-forward="false" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayListTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/泛型数组列表/ArrayListTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Questions" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/泛型数组列表/Questions">
+        <entry file="file://$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/Questions">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="46">
+              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Class.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LearnForJava/第三章-对象与类/Class.java">
+      <file leaf-file-name="testForClone.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/对象克隆/testForClone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2990">
-              <caret line="135" column="10" lean-forward="false" selection-start-line="135" selection-start-column="10" selection-end-line="135" selection-end-column="10" />
+            <state relative-caret-position="276">
+              <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testForCopy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/对象克隆/testForCopy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/接口/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+              <folding>
+                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#652#653#0" expanded="true" />
+                <element signature="e#711#712#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -155,6 +230,9 @@
       <find>da</find>
       <find>Employee</find>
     </findStrings>
+    <dirStrings>
+      <dir>D:\Java\LearnForJava\src\第四章-继承\Employee类和Manager类测试</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -167,38 +245,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Main.java" />
-        <option value="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/TranTem.java" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/HelloWorld.java" />
-        <option value="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/DataType.java" />
-        <option value="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Operator.java" />
-        <option value="$PROJECT_DIR$/LearnForJava/中国大学mooc作业/TranTem.java" />
-        <option value="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Varible.java" />
-        <option value="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/CharString.java" />
-        <option value="$PROJECT_DIR$/LearnForJava/中国大学mooc作业/TimeTran.java" />
-        <option value="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/InAndOut_Put.java" />
-        <option value="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Program/Retirement.java" />
-        <option value="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Program/LotteryOdds.java" />
-        <option value="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/ControlFlow.java" />
-        <option value="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Program/LotteryDrawing.java" />
-        <option value="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Program/CompoundInterest.java" />
-        <option value="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Program/LotteryArray.java" />
-        <option value="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Array.java" />
-        <option value="$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/README.md" />
-        <option value="$PROJECT_DIR$/LearnForJava/第三章-对象与类/Program/CalendarTest.java" />
-        <option value="$PROJECT_DIR$/LearnForJava/第三章-对象与类/GregorianCalendar.java" />
-        <option value="$PROJECT_DIR$/LearnForJava/第三章-对象与类/GregorianCalendar2.java" />
-        <option value="$PROJECT_DIR$/LearnForJava/第三章-对象与类/Program/EmployeeTest.java" />
-        <option value="$PROJECT_DIR$/LearnForJava/第三章-对象与类/GregorianCalendar1.java" />
-        <option value="$PROJECT_DIR$/LearnForJava/第三章-对象与类/Program/StaticTest.java" />
         <option value="$PROJECT_DIR$/LearnForJava/中国大学mooc作业/soutOrder.java" />
         <option value="$PROJECT_DIR$/LearnForJava/第三章-对象与类/Program/ParamTest.java" />
         <option value="$PROJECT_DIR$/LearnForJava/中国大学mooc作业/China.java" />
         <option value="$PROJECT_DIR$/LearnForJava/第三章-对象与类/Class.java" />
         <option value="$PROJECT_DIR$/LearnForJava/第三章-对象与类/Question.md" />
         <option value="$PROJECT_DIR$/LearnForJava/第三章-对象与类/README.md" />
-        <option value="$PROJECT_DIR$/LearnForJava/README.md" />
         <option value="$PROJECT_DIR$/LearnForJava/第四章-继承/ClassAndSuper.java" />
         <option value="$PROJECT_DIR$/LearnForJava/第四章-继承/Polymorphic.java" />
         <option value="$PROJECT_DIR$/LearnForJava/第四章-继承/Questions.md" />
@@ -218,8 +270,37 @@
         <option value="$PROJECT_DIR$/LearnForJava/第四章-继承/泛型数组列表/ArrayListTest.java" />
         <option value="$PROJECT_DIR$/LearnForJava/第四章-继承/泛型数组列表/Questions" />
         <option value="$PROJECT_DIR$/LearnForJava/第四章-继承/对象包装器与自动装箱/README.md" />
+        <option value="$PROJECT_DIR$/LearnForJava/第四章-继承/对象包装器与自动装箱/test1.java" />
+        <option value="$PROJECT_DIR$/LearnForJava/README.md" />
+        <option value="$PROJECT_DIR$/LearnForJava/src/第四章-继承/对象包装器与自动装箱/test1.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/LearnForJava/src/第四章-继承/泛型数组列表/ArrayListTest.java" />
+        <option value="$PROJECT_DIR$/LearnForJava/src/第四章-继承/Employee类和Manager类测试/Employee.java" />
+        <option value="$PROJECT_DIR$/LearnForJava/src/第四章-继承/test1.java" />
+        <option value="$PROJECT_DIR$/LearnForJava/src/第四章-继承/对象包装器与自动装箱/autoPack.java" />
+        <option value="$PROJECT_DIR$/LearnForJava/src/第四章-继承/参数数量可变的方法/README.md" />
+        <option value="$PROJECT_DIR$/LearnForJava/src/第四章-继承/参数数量可变的方法/autoNum.java" />
+        <option value="$PROJECT_DIR$/LearnForJava/src/第四章-继承/README.md" />
+        <option value="$PROJECT_DIR$/LearnForJava/src/第四章-继承/枚举类/README.md" />
+        <option value="$PROJECT_DIR$/LearnForJava/src/第四章-继承/枚举类/EnumTest.java" />
+        <option value="$PROJECT_DIR$/LearnForJava/LearnForJava.iml" />
+        <option value="$PROJECT_DIR$/LearnForJava/src/第六章-接口与类/README.md" />
+        <option value="$PROJECT_DIR$/LearnForJava/src/第六章-接口与类/接口/InterFace.java" />
+        <option value="$PROJECT_DIR$/LearnForJava/src/第六章-接口与类/接口/README.md" />
+        <option value="$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/接口/EmployeeSortTest.java" />
+        <option value="$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/接口/Employee.java" />
+        <option value="$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/接口/README.md" />
+        <option value="$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/接口/Interface_Features.java" />
+        <option value="$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/接口/接口与抽象类.md" />
+        <option value="$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/对象克隆/testForCopy.java" />
+        <option value="$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/Questions" />
+        <option value="$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/对象克隆/testForClone.java" />
+        <option value="$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/对象克隆/README.md" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
@@ -248,11 +329,11 @@
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
+      <flattenPackages ProjectPane="false" />
       <showMembers />
       <showModules />
       <showLibraryContents />
-      <hideEmptyPackages />
+      <hideEmptyPackages ProjectPane="true" />
       <abbreviatePackageNames />
       <autoscrollToSource />
       <autoscrollFromSource />
@@ -261,9 +342,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -286,7 +364,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="第四章-继承" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -300,11 +378,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="第四章-继承" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="对象包装器与自动装箱" />
+              <option name="myItemId" value="第五章-接口与类" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -318,12 +396,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="第二章-Java的基本程序设计结构" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="第五章-接口与类" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="对象克隆" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -331,22 +420,37 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="F:/sda" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Java\LearnForJava\第三章-对象与类\Program" />
-      <recent name="D:\Java\LearnForJava\第二章-Java的基本程序设计结构\Program" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\LearnForJava\src" />
+      <recent name="D:\Java\LearnForJava\src\第三章-对象与类" />
       <recent name="D:\Java\LearnForJava\第四章-继承" />
       <recent name="D:\Java\LearnForJava\第二章-Java的基本程序设计结构\Program" />
       <recent name="D:\Java\LearnForJava\中国大学mooc作业" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="src" />
+      <recent name="Employee类和Manager类测试" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\LearnForJava\src\第四章-继承\Employee类和Manager类测试" />
+      <recent name="D:\Java\LearnForJava\src\第四章-继承" />
+      <recent name="D:\Java\LearnForJava\第三章-对象与类\Program" />
+      <recent name="D:\Java\LearnForJava\第二章-Java的基本程序设计结构\Program" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayListTest">
-    <configuration default="false" name="China" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="China" />
+  <component name="RunManager" selected="Application.testForClone">
+    <configuration default="false" name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="枚举类.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="枚举类.EnumTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -359,14 +463,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="EmployeeSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Employee类和Manager类测试.*" />
+          <option name="PATTERN" value="接口.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Employee类和Manager类测试.EmployeeTest" />
+      <option name="MAIN_CLASS_NAME" value="接口.EmployeeSortTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -379,14 +483,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Interface_Features" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Employee类和Manager类测试.*" />
+          <option name="PATTERN" value="接口.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Employee类和Manager类测试.PersonTest" />
+      <option name="MAIN_CLASS_NAME" value="接口.Interface_Features" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -399,14 +503,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Object" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="testForCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Object_所有类的超类.*" />
+          <option name="PATTERN" value="对象克隆.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Object_所有类的超类.Object" />
+      <option name="MAIN_CLASS_NAME" value="对象克隆.testForCopy" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -419,14 +523,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="testForClone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="泛型数组列表.*" />
+          <option name="PATTERN" value="对象克隆.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="泛型数组列表.ArrayListTest" />
+      <option name="MAIN_CLASS_NAME" value="对象克隆.testForClone" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -657,19 +761,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.China" />
-      <item index="1" class="java.lang.String" itemvalue="Application.EmployeeTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PersonTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Object" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ArrayListTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.EnumTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.EmployeeSortTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Interface_Features" />
+      <item index="3" class="java.lang.String" itemvalue="Application.testForCopy" />
+      <item index="4" class="java.lang.String" itemvalue="Application.testForClone" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ArrayListTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Object" />
-        <item index="2" class="java.lang.String" itemvalue="Application.EmployeeTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PersonTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.China" />
+        <item index="0" class="java.lang.String" itemvalue="Application.testForClone" />
+        <item index="1" class="java.lang.String" itemvalue="Application.testForCopy" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Interface_Features" />
+        <item index="3" class="java.lang.String" itemvalue="Application.EmployeeSortTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.EnumTest" />
       </list>
     </recent_temporary>
   </component>
@@ -702,19 +806,19 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33013844" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.50429183" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3343983" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23551503" sideWeight="0.4936508" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25160944" sideWeight="0.4936508" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -726,7 +830,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.49570817" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -741,421 +845,366 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/HelloWorld.java">
+    <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/Employee类和Manager类测试/Employee类和Manager类测试/newEmployee.java" />
+    <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/Employee类和Manager类测试/Employee类和Manager类测试/PersonTest.java" />
+    <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/Employee类和Manager类测试/Employee类和Manager类测试/EmployeeTest.java" />
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第三章-对象与类/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="2990">
+          <caret line="135" column="10" lean-forward="false" selection-start-line="135" selection-start-column="10" selection-end-line="135" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Operator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+    <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/Employee类和Manager类测试/Employee类和Manager类测试/Employee.java" />
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第四章-继承/泛型数组列表/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="483">
+            <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Varible.java">
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第四章-继承/Polymorphic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        <state relative-caret-position="736">
+          <caret line="32" column="41" lean-forward="false" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/中国大学mooc作业/TranTem.java">
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第四章-继承/ClassAndSuper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="1840">
+          <caret line="80" column="36" lean-forward="false" selection-start-line="80" selection-start-column="36" selection-end-line="80" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/CharString.java">
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第四章-继承/泛型数组列表/Questions">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2185">
-          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+        <state relative-caret-position="23">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Program/Retirement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Program/LotteryOdds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/ControlFlow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2461">
-          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/InAndOut_Put.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="81" column="21" lean-forward="false" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/中国大学mooc作业/TimeTran.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Program/LotteryDrawing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Program/CompoundInterest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Program/LotteryArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/Array.java">
+    <entry file="file://$PROJECT_DIR$/LearnForJava/中国大学Mooc作业.iml" />
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第二章-Java的基本程序设计结构/Array.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1771">
           <caret line="77" column="40" lean-forward="false" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第三章-对象与类/scric.java" />
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第三章-对象与类/Program/CalendarTest.java">
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第三章-对象与类/Program/EmployeeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="713">
+          <caret line="31" column="46" lean-forward="false" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第三章-对象与类/GregorianCalendar1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第三章-对象与类/Program/StaticTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="121">
-            <caret line="86" column="6" lean-forward="false" selection-start-line="86" selection-start-column="6" selection-end-line="86" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第三章-对象与类/Program/ParamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="989">
-          <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
-          <folding>
-            <element signature="e#2082#2083#0" expanded="false" />
-            <element signature="e#2106#2107#0" expanded="false" />
-            <element signature="e#2141#2142#0" expanded="false" />
-            <element signature="e#2167#2168#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第三章-对象与类/GregorianCalendar2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1426">
-          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/中国大学mooc作业/soutOrder.java" />
-    <entry file="file://$PROJECT_DIR$/LearnForJava/中国大学mooc作业/China.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第三章-对象与类/Question.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="299">
-            <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/中国大学Mooc作业.iml">
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第三章-对象与类/Program/CalendarTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/对象与类.iml">
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第四章-继承/Object_所有类的超类/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="598">
+          <caret line="26" column="60" lean-forward="false" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第三章-对象与类/Program/EmployeeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-184">
-          <caret line="33" column="46" lean-forward="false" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/LearnForJava.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/Questions.md">
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第四章-继承/Object_所有类的超类/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="92">
-            <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/Employee类和Manager类测试/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-          <folding>
-            <element signature="e#404#405#0" expanded="false" />
-            <element signature="e#458#459#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/Employee类和Manager类测试/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-          <folding>
-            <element signature="e#247#248#0" expanded="false" />
-            <element signature="e#271#272#0" expanded="false" />
-            <element signature="e#319#320#0" expanded="false" />
-            <element signature="e#346#347#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/Object_所有类的超类/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="409">
+          <first_editor relative-caret-position="460">
             <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-            <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/Object_所有类的超类/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="28" column="60" lean-forward="false" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LearnForJava/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="460">
-            <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-            <folding />
+          <first_editor relative-caret-position="368">
+            <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1334">
-            <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第三章-对象与类/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3841">
-            <caret line="167" column="1" lean-forward="false" selection-start-line="167" selection-start-column="1" selection-end-line="167" selection-end-column="1" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第二章-Java的基本程序设计结构/DataType.java">
+    <entry file="file://$PROJECT_DIR$/.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/Employee类和Manager类测试/Manager.java">
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第四章-继承/对象包装器与自动装箱/test1.java" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="115">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/Employee类和Manager类测试/newEmployee.java">
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第四章-继承/泛型数组列表/arrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
+        <state relative-caret-position="460">
+          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/中国大学mooc作业/China.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第四章-继承/Employee类和Manager类测试/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/Employee类和Manager类测试/newEmployee.java" />
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第四章-继承/Employee类和Manager类测试/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第二章-Java的基本程序设计结构/Program/LotteryDrawing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
           <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/Employee类和Manager类测试/PersonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="70" lean-forward="false" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/Employee类和Manager类测试/EmployeeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第三章-对象与类/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2990">
-          <caret line="135" column="10" lean-forward="false" selection-start-line="135" selection-start-column="10" selection-end-line="135" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/Employee类和Manager类测试/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/泛型数组列表/arrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="65" column="32" lean-forward="false" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/泛型数组列表/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="409">
-            <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/Polymorphic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="32" column="41" lean-forward="false" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/AbstractClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/ClassAndSuper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="80" column="36" lean-forward="false" selection-start-line="80" selection-start-column="36" selection-end-line="80" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/泛型数组列表/ArrayListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/泛型数组列表/Questions">
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第四章-继承/泛型数组列表/ArrayListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第四章-继承/Employee类和Manager类测试/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第四章-继承/Employee类和Manager类测试/EmployeeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第四章-继承/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第四章-继承/对象包装器与自动装箱/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="345">
+            <caret line="42" column="62" lean-forward="false" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="62" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第四章-继承/对象包装器与自动装箱/autoPack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="38" column="36" lean-forward="false" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第四章-继承/参数数量可变的方法/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="138">
+            <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第四章-继承/参数数量可变的方法/autoNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第四章-继承/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2507">
+            <caret line="109" column="12" lean-forward="false" selection-start-line="109" selection-start-column="12" selection-end-line="109" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第四章-继承/枚举类/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="230">
+            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第四章-继承/枚举类/EnumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" column="34" lean-forward="false" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+          <folding>
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+            <element signature="e#915#916#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/LearnForJava.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LearnForJava/第四章-继承/对象包装器与自动装箱/README.md">
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第六章-接口与类/接口/InterFace" />
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/接口/InterFace.java" />
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/接口/EmployeeSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="75" lean-forward="false" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/接口/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding>
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/接口/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="184">
-            <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <first_editor relative-caret-position="828">
+            <caret line="36" column="62" lean-forward="false" selection-start-line="36" selection-start-column="62" selection-end-line="36" selection-end-column="62" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/接口/Interface_Features.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第四章-继承/AbstractClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/接口/接口与抽象类.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="368">
+            <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="299">
+            <caret line="19" column="62" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="62" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/对象克隆/testForCopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/Questions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/对象克隆/testForClone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnForJava/src/第五章-接口与类/对象克隆/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="295">
+            <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor />
