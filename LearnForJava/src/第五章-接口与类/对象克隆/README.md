@@ -13,7 +13,7 @@
 详细的, 我们可以看 testForClone
 
 对于每一个类, 都需要作出下列判断:
-
+7
 + 默认的 clone 方法是否满足要求?
 + 默认的 clone 方法是否能够通过调用可变子对象的 clone 得到修补.
 + 是否不应该使用 clone
@@ -26,6 +26,14 @@
  
 ### # 注释
 
-在 Object 类中, clone 方法被声明为 protected, 因此无法直接调用 anObject.clone().
++ 在 Object 类中, clone 方法被声明为 protected, 因此无法直接调用 anObject.clone().
 
-子类只能调用受保护的 clone 方法克隆它自己. 因此 ,必须重新定义 clone 方法, 并将它声明为 public, 这样才能让所有的方法克隆对象.
++ 子类只能调用受保护的 clone 方法克隆它自己. 因此 ,必须重新定义 clone 方法, 并将它声明为 public, 这样才能让所有的方法克隆对象.
+
++ 所有的数组类型均包含一个 clone 方法, 这个方法被设为 public ,而不是 protected
+ 
+ 
+ 
+### 关于 clone 的知识点 可以看 CloneTest
+
+
