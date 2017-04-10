@@ -83,10 +83,38 @@ JFrame 类本身只包含若干个改变框架外观的方法, 通过继承, 从
 + 如果编写一个使用多个显示屏幕的应用程序, 应该利用 GraphicsEnvironment 和 Graphics Device 类获得显示屏幕的代销
 
 + GraphicsDevice 类信息在全屏模式下执行应用程序.
-
+记得
 详细内容, 可以看 SizdFrameTest
 
   
-  
+#### ## 在组件中显示信息
+
+JFrame 有四层面板, 根面板, 层级面板, 玻璃面板, 内容窗格(content pane).  
+
+需要注意的是 . 无论何种原因, 只要窗口需要重新绘图, 事件处理器就会通告组件, 从而引发执行所有组件的 painComponent 方
+一定不要自己调用 paintComponent 方法. 在应用程序需要重新绘图时, 这个方法将被自动地调用. 
+
+对于屏幕显示来说, Graphics 对象的度量单位是像素. 坐标(0, 0) 指出所绘制组件表明的左上角
+
+显示文本是一种特殊的绘图. 在 Graphics 类中有一个 drawString 方法. 调用格式为
+
+> g.drawString(text, x, y)
+
+详细代码请看 notHelloWorld
 
 
+#### ##　处理 2D 图形
+
+Graphics 类本身就包含绘制直线, 矩形和椭圆等放阿飞, 但是, 这些绘制图形的操作能力非常有限. 比如, 不能改变线的粗细, 不能旋转这些图形.
+
+Java SE 1.2 引入了 Java 2D 库, 这个库实现了一组功能强大的图形操作.
+
+要想使用 Java 2D 库绘制图形, 就需要获得一个 Graphics2D 类对象, 这个类是 Graphics 类的子类.
+
+paintComponent 方法会自动地获得一个 Graphics2D 类对象. 我们只需要进行一次类型转换就可以了.
+
++ 要想绘制图形, 首先要创建一个实现了 Shape 接口的类的对象, 然后调用 Graphics2D 类中的 draw 方法
+
+需要注意的是, 椭圆不是矩形, 但他们都有着矩形边界
+
+详细代码请看 DrawTest
