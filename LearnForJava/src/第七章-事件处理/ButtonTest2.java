@@ -7,6 +7,7 @@ import java.awt.event.ActionListener;
  * Created by scric on 2017/4/13.
  * @version 2.0
  * @author scric
+ * @since 这是改良版的设置背景, 使用匿名内部类来实现简化的功能.
  */
 public class ButtonTest2 {
     public static void main(String[] args) {
@@ -25,23 +26,23 @@ public class ButtonTest2 {
 class ButtonFrame2 extends JFrame{
 
     private JPanel buttonPane2;
-    private static final int DEFAULT_WIDTH = 3000;
+    private static final int DEFAULT_WIDTH = 300;
     private static final int DEFAULT_HEIGHT = 2000;
 
     ButtonFrame2() {
         setSize(DEFAULT_WIDTH, DEFAULT_HEIGHT);
         buttonPane2 = new JPanel();
-        add(buttonPane2);
+
         makeButton("yellow", Color.yellow);
         makeButton("blue", Color.blue);
         makeButton("red", Color.red);
+        add(buttonPane2);
     }
     private void makeButton(String name, final Color backgroundColor){
+
         setSize(DEFAULT_WIDTH, DEFAULT_HEIGHT);
         JButton button = new JButton(name);
-
         buttonPane2.add(button);
-
         button.addActionListener(e -> buttonPane2.setBackground(backgroundColor));
     }
 //    class ColorAction implements ActionListener {
