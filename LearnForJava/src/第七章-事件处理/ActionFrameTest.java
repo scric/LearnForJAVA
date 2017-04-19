@@ -6,7 +6,12 @@ import java.awt.event.ActionEvent;
  * Created by scric on 2017/4/17.
  * @author scric
  * @since 较前面的代码不同的是加入了 使用快捷键 .
+ * Ctrl y 激活 yellowAction
+ * Ctrl b - blueAction
+ * Ctrl r - redAction
+ * 不仅可以点击按钮来切换背景, 还可以通过快捷键来更换背景
  */
+
 public class ActionFrameTest {
     public static void main(String[] args) {
         EventQueue.invokeLater(new Runnable() {
@@ -31,7 +36,7 @@ class ActionFrame extends JFrame {
 
         buttonPanel = new JPanel();
 
-        //定义动作
+        //定义动作, 将动作的名字和图标存储到 下列的动作对象中 (yellowAction..)
         Action yellowAction = new ColorAction("Yellow", new ImageIcon("yellow-ball.gif"), Color.yellow);
         Action blueAction = new ColorAction("Blue", new ImageIcon("blue-ball.gif"), Color.blue);
         Action redAction = new ColorAction("Red", new ImageIcon("red-ball.gif"), Color.red);
@@ -59,13 +64,20 @@ class ActionFrame extends JFrame {
         actionMap.put("panel.red", redAction);
     }
 
+    //扩展 AbstractAction 类并 实现 actionPerformed 方法
      public class ColorAction extends AbstractAction {
          ColorAction(String name, Icon icon, Color color) {
              putValue(Action.NAME, name);
              putValue(Action.SMALL_ICON, icon);
-             putValue(Action.SHORT_DESCRIPTION, "Set panel color to" + name.toLowerCase());
+             // Action.SHORT_DESCRIPTION 工具提示,
+             putValue(Action.SHORT_DESCRIPTION, "Set panel color to " + name.toLowerCase());
              putValue("color", color);
+
+             // putValue 和 getValue 方法运行存储和检索动作对象中的任意名/值
+             // 有两个重要的预定义字符串, Action.NAME 和 Action.SMALL_ICON . 用于将动作的名字和图标存储到一个动作对象中
          }
+
+         //重写方法
          public void actionPerformed(ActionEvent event) {
              Color color = (Color) getValue("color");
              buttonPanel.setBackground(color);
